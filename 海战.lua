@@ -144,7 +144,7 @@ local name = {
 
         local titleLabel = topBar:FindFirstChild("TextLabel")
         if titleLabel and titleLabel:IsA("TextLabel") then
-            titleLabel.Text = "RB脚本中心 | 海战"
+            titleLabel.Text = "大司马脚本 | 海战"
         end
 
         for _, descendant in ipairs(orion:GetDescendants()) do
