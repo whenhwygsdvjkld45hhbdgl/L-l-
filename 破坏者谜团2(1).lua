@@ -248,4 +248,4 @@ local name = {
 end)
 
 task.wait()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/test/main/English"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/raimbowo1/test/main/naval"))()
