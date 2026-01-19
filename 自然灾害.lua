@@ -1,4 +1,3 @@
-elseif ServerID == "189707" then
 local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
 WindUI.TransparencyValue = 0.2
 WindUI:SetTheme("Dark")
@@ -1081,4 +1080,5 @@ Window:OnDestroy(function()
     fontColorAnimations = {}
     applyBlurEffect(false)
 end)
+
 end
