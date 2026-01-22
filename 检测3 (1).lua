@@ -210,6 +210,6 @@ elseif game.PlaceId == 124977557560410 then --种植花园
 
 	
 else --通用
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbdgl/L-l-/refs/heads/main/%E5%A4%A7%E5%8F%B8%E9%A9%AC%E4%BB%98%E8%B4%B9%E9%80%9A%E7%94%A8(2).lua"))()
+    loadstring(game:HttpGet(""))()
     
 end
