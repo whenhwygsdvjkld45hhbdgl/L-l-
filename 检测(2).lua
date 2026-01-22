@@ -218,7 +218,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbd
 
 elseif pid == "7239319209" then --俄亥俄州
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbdgl/L-l-/refs/heads/main/".."俄亥俄州2.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbdgl/AAQWASIEJWGGSSAAAAAAAA/refs/heads/main/%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E2(1).lua", true))()
 
 elseif pid == "2210085102" then --海战
 
