@@ -224,6 +224,9 @@ elseif pid == "2210085102" then --海战
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbdgl/L-l-/refs/heads/main/".."海战.lua", true))()
 
+elseif pid == "3956818381" then --忍者传奇
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbdgl/L-l-/refs/heads/main/%E5%BF%8D%E8%80%85%E4%BC%A0%E5%A5%87.lua", true))()
 
 elseif pid == "124977557560410" then --种植花园
 
