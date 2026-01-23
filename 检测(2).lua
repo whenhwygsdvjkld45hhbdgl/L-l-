@@ -34,7 +34,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbd
 
 elseif pid == "9872472334" then --躲避
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbdgl/L-l-/refs/heads/main/".."躲避.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/whenhwygsdvjkld45hhbdgl/L-l-/refs/heads/main/%E8%BA%B2%E9%81%BF.lua", true))()
 
 elseif pid == "13822889" then --伐木大亨
 
